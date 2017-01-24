@@ -19,6 +19,9 @@ This package contains:
   
   
  Thanks to ascii.big and font packages, it creates the character using loops.
+ 
+ 
+ 
  '''java
  for (int i = 0; i <font.getLineHeight(); i++)  
 		    {
@@ -43,6 +46,7 @@ This package contains:
                         } 
   '''
   
+ 
  
 2. Ascii.Big package
 This package contains:
